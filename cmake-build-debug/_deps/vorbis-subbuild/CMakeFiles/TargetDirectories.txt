@@ -1,0 +1,3 @@
+C:/Users/Markeris/CLionProjects/PI24-PRAKTIKA/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.dir
+C:/Users/Markeris/CLionProjects/PI24-PRAKTIKA/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Markeris/CLionProjects/PI24-PRAKTIKA/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/rebuild_cache.dir

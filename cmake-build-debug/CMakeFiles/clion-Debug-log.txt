@@ -1,0 +1,7 @@
+C:\Users\Markeris\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Markeris/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Markeris\CLionProjects\PI24-PRAKTIKA -B C:\Users\Markeris\CLionProjects\PI24-PRAKTIKA\cmake-build-debug
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Configuring libogg 1.3.5
+-- Configuring vorbis 1.3.7
+-- Configuring done (9.8s)
+-- Generating done (0.9s)
+-- Build files have been written to: C:/Users/Markeris/CLionProjects/PI24-PRAKTIKA/cmake-build-debug
